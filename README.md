@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
