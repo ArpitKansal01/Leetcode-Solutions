@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Math
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [3227-find-missing-and-repeated-values](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
