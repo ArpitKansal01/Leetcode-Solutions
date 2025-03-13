@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Interactive
 |  |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
