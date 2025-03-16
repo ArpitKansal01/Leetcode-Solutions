@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3643-zero-array-transformation-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
