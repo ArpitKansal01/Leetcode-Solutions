@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3483-alternating-groups-ii](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [1013-fibonacci-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Counting
 |  |
 | ------- |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Greedy
+|  |
+| ------- |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 <!---LeetCode Topics End-->
