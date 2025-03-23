@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2793-count-the-number-of-complete-components](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
@@ -228,4 +229,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Depth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
