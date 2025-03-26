@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
