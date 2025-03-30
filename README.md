@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0768-partition-labels](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0768-partition-labels](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Graph
 |  |
