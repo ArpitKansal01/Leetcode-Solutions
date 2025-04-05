@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -285,4 +288,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
