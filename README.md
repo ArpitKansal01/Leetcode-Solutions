@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 ## Interactive
 |  |
 | ------- |
