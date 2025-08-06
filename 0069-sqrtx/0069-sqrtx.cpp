@@ -1,21 +1,12 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        if (x<2)
-            return x;
-        int left=1;
-        int right=x/2;
-        long signed int mid=0;
-        while(left<=right){
-            mid=left+((right-left)/2);
-            if (mid*mid==x){
-                return mid;
-            }
-            else if(mid*mid>x)
-                 right=mid-1;
-            else
-                left=mid+1;
+        if(x==0)    return 0; 
+        for(int i=1;i<=x/2+1;i++){
+            if(i>INT_MAX/i)    return i-1;
+            else if(i*i==x) return i;
+            else if(i*i>x) return i-1;
         }
-        return right;
+        return 0;
     }
 };
