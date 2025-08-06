@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 ## Hash Table
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
