@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -391,4 +392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
