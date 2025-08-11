@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1646-kth-missing-positive-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1646-kth-missing-positive-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
