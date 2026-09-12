@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Memoization
@@ -406,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
