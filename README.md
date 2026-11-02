@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ArpitKansal01/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
